@@ -1,0 +1,11 @@
+SPDX-License-Identifier: Stephenson-NC
+Copyright (c) 2025 Daniel McCoy Stephenson
+
+This file is part of a Stephenson Software project licensed under the
+Stephenson Software Non-Commercial License (Stephenson-NC).
+
+You may use, copy, modify, and distribute this file for non-commercial purposes only.
+Commercial use is prohibited without explicit written permission from
+Daniel McCoy Stephenson.
+
+Full license text: https://github.com/Stephenson-Software/stephenson-nc-license
