@@ -49,3 +49,17 @@ When applying this license to your project:
 
 ## ℹ About Stephenson Software
 Stephenson Software is a **personal software lab** for experimentation, education, and innovation in software development. It is **not** a registered company or legal entity.
+
+## License Section for READMEs
+The following can be pasted into READMEs for convenience:
+```
+## License
+This project is licensed under the **Stephenson Software Non-Commercial License (Stephenson-NC)**.  
+© 2025 Daniel McCoy Stephenson. All rights reserved.  
+
+You may use, modify, and share this software for **non-commercial purposes only**.  
+Commercial use is prohibited without explicit written permission from the copyright holder.  
+
+Full license text: [Stephenson-NC License](https://github.com/Stephenson-Software/stephenson-nc-license)  
+SPDX Identifier: `Stephenson-NC`
+```
