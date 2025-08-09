@@ -31,7 +31,7 @@ Commercial licensing is available for organizations or individuals wishing to us
 To inquire, contact:
 
 **Daniel McCoy Stephenson**  
-[GitHub Profile](https://github.com/danielmccombs)
+[GitHub Profile](https://github.com/dmccoystephenson)
 
 ---
 
