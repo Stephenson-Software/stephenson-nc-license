@@ -12,18 +12,24 @@ Canonical license text: https://github.com/Stephenson-Software/stephenson-nc-lic
 ## Adding to Source Files
 Add the following header at the top of every source file:
 
-// SPDX-License-Identifier: Stephenson-NC  
-// Copyright (c) 2025 Daniel McCoy Stephenson  
-//  
-// This file is part of a Stephenson Software project licensed under the  
-// Stephenson Software Non-Commercial License (Stephenson-NC).  
+```
+// SPDX-License-Identifier: Stephenson-NC
+// Copyright (c) 2025 Daniel McCoy Stephenson
+//
+// This file is part of a Stephenson Software project licensed under the
+// Stephenson Software Non-Commercial License (Stephenson-NC).
 // See https://github.com/Stephenson-Software/stephenson-nc-license for details.
+```
+
+The `//` markers above suit languages that use them. [LICENSE_HEADER.txt](./LICENSE_HEADER.txt) carries a fuller notice with no comment markers at all, ready to be prefixed with whatever marker the target language uses.
 
 ## Adding to README.md
 In your project README, add:
 
-**License:** Stephenson-NC © 2025 Daniel McCoy Stephenson  
+```
+**License:** Stephenson-NC © 2025 Daniel McCoy Stephenson
 See https://github.com/Stephenson-Software/stephenson-nc-license for details.
+```
 
 ## Adding to package metadata (optional)
 For projects with package metadata (e.g., package.json, pyproject.toml, Maven pom.xml), set the license field to `Stephenson-NC` and include a link to this repository.
