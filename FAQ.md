@@ -14,7 +14,7 @@ This includes (but is not limited to):
 If you are unsure whether your use is commercial, please contact the copyright holder for clarification.
 
 ## 3. Can I use this software for school or personal projects?
-Yes. Educational, research, and personal hobby use is encouraged, as long as you are not selling the software or using it to generate revenue.
+Yes. Educational, research, and personal hobby use is encouraged, provided the software is not used in a commercial product or service.
 
 ## 4. Can I modify the software?
 Yes. You may modify the software for non-commercial purposes, as long as you keep the copyright and license notice intact in your version.
