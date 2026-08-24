@@ -4,7 +4,7 @@
 The Stephenson-NC License is a custom license based on the MIT License that allows free use, modification, and distribution of Stephenson Software projects **for non-commercial purposes only**. Commercial use is reserved for the copyright holder, Daniel McCoy Stephenson.
 
 ## 2. What counts as "commercial use"?
-**Commercial use** means any use that directly or indirectly generates revenue, provides commercial advantage, or is part of a revenue-generating process.  
+**Commercial use** means selling, licensing, sublicensing, or otherwise using the software for commercial advantage.  
 This includes (but is not limited to):
 - Selling the software or a product that contains it.
 - Using it in a paid service or consulting project.
