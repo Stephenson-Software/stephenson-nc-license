@@ -2,12 +2,14 @@
 
 ## What is SPDX?
 SPDX (Software Package Data Exchange) is a standard format for identifying software licenses.  
-Using SPDX headers makes it easier for humans and automated tools to understand and comply with your license terms.
+Using an SPDX-style header makes the license of a file easy for a reader to spot and gives automated tools a consistent place to look for it.
 
 ## Stephenson-NC SPDX Identifier
 Identifier: Stephenson-NC  
 Version: 1.0 (2025)  
 Canonical license text: https://github.com/Stephenson-Software/stephenson-nc-license
+
+`Stephenson-NC` is a custom identifier coined by this repository. It is **not** on the official SPDX License List, so a scanner that encounters it will generally report it as unrecognized rather than resolve it to known terms. The canonical text linked above remains the only statement of what the license permits.
 
 ## Adding to Source Files
 Add the following header at the top of every source file:
@@ -35,6 +37,6 @@ See https://github.com/Stephenson-Software/stephenson-nc-license for details.
 For projects with package metadata (e.g., package.json, pyproject.toml, Maven pom.xml), set the license field to `Stephenson-NC` and include a link to this repository.
 
 ## Benefits of Using SPDX
-- Standardized license identification.
-- Easier integration with compliance and scanning tools.
+- Standardized placement and syntax for license identification.
+- A consistent field for compliance and scanning tools to read, though those tools cannot resolve `Stephenson-NC` to known terms on their own.
 - Makes the license terms clear to collaborators and users.
