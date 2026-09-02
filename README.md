@@ -29,7 +29,7 @@ See [LICENSE.md](./LICENSE.md) for the complete legal text.
 - Modification and redistribution **for non-commercial purposes only**.
 - Use in academic coursework, research papers, demonstrations, and learning projects.
 
-Redistribution carries one condition: the copyright notice and the permission notice must be included in all copies or substantial portions of the Software. See [LICENSE.md](./LICENSE.md).
+Copies and substantial portions of the Software must include the copyright notice and the permission notice. See [LICENSE.md](./LICENSE.md).
 
 ## 🚫 Prohibited
 - Commercial use without explicit written permission.
