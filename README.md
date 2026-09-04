@@ -29,6 +29,8 @@ See [LICENSE.md](./LICENSE.md) for the complete legal text.
 - Modification and redistribution **for non-commercial purposes only**.
 - Use in academic coursework, research papers, demonstrations, and learning projects.
 
+Copies and substantial portions of the Software must include the copyright notice and the permission notice. See [LICENSE.md](./LICENSE.md).
+
 ## 🚫 Prohibited
 - Commercial use without explicit written permission.
 - Internal business use or inclusion in paid products/services.
