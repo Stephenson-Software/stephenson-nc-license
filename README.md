@@ -36,6 +36,8 @@ Copies and substantial portions of the Software must include the copyright notic
 - Internal business use or inclusion in paid products/services.
 - Offering the software as part of a hosted service for a fee.
 
+Each of the above is prohibited without explicit written permission from the copyright holder. Commercial licensing is available for these uses — see [COMMERCIAL_LICENSE.md](./COMMERCIAL_LICENSE.md).
+
 ---
 
 ## 💼 Commercial Licensing

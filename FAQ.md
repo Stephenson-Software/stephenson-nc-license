@@ -23,7 +23,7 @@ Yes. You may modify the software for non-commercial purposes, as long as you kee
 Yes, you can share modified versions for non-commercial purposes, provided that:
 - You include the copyright and license notice.
 - You do not remove or alter the license terms.
-- You do not monetize your version.
+- You do not use your version in any of the ways Question 2 describes as commercial use.
 
 ## 6. How do I get permission for commercial use?
 You must obtain a **commercial license** from Daniel McCoy Stephenson. See [COMMERCIAL_LICENSE.md](./COMMERCIAL_LICENSE.md) for instructions.
