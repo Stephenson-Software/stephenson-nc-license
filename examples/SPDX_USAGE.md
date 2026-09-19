@@ -29,9 +29,11 @@ The `//` markers above suit languages that use them. [LICENSE_HEADER.txt](./LICE
 In your project README, add:
 
 ```
-**License:** Stephenson-NC © 2025 Daniel McCoy Stephenson
+License: Stephenson-NC © 2025 Daniel McCoy Stephenson
 See https://github.com/Stephenson-Software/stephenson-nc-license for details.
 ```
+
+This is the same link-back shown in the [repository README](../README.md), which also provides a fuller "License Section for READMEs" that can be pasted in instead.
 
 ## Adding to package metadata (optional)
 For projects with package metadata (e.g., package.json, pyproject.toml, Maven pom.xml), set the license field to `Stephenson-NC` and include a link to this repository.
