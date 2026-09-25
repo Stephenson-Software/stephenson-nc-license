@@ -6,10 +6,10 @@ The Stephenson-NC License is a custom license based on the MIT License that allo
 ## 2. What counts as "commercial use"?
 **Commercial use** means selling, licensing, sublicensing, or otherwise using the software for commercial advantage.  
 This includes (but is not limited to):
-- Selling the software or a product that contains it.
+- Using it in a product, service, or system that is sold, licensed, or otherwise monetized.
 - Using it in a paid service or consulting project.
 - Deploying it for internal use within a business.
-- Bundling it with other products or services for sale.
+- Distributing it, modified or unmodified, bundled with commercial products or services.
 
 If you are unsure whether your use is commercial, please contact the copyright holder for clarification.
 
@@ -29,7 +29,7 @@ Yes, you can share modified versions for non-commercial purposes, provided that:
 You must obtain a **commercial license** from Daniel McCoy Stephenson. See [COMMERCIAL_LICENSE.md](./COMMERCIAL_LICENSE.md) for instructions.
 
 ## 7. Why isn't this just MIT or GPL?
-The MIT License allows unrestricted commercial use by anyone. This license keeps the openness of MIT for education and research but ensures that no other party may monetize it without explicit written permission from the copyright holder.
+The MIT License allows unrestricted commercial use by anyone. This license keeps the openness of MIT for education and research but ensures that no other party may make commercial use of it, in any of the ways Question 2 describes, without explicit written permission from the copyright holder.
 
 ## 8. Where can I read the full license?
 The canonical text of the license is in [LICENSE.md](./LICENSE.md) and is hosted in this repository:
