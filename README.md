@@ -33,7 +33,7 @@ Copies and substantial portions of the Software must include the copyright notic
 
 ## 🚫 Prohibited
 - Commercial use without explicit written permission.
-- Internal business use or inclusion in paid products/services.
+- Internal business use, or inclusion in products or services that are sold, licensed, or otherwise monetized.
 - Offering the software as part of a hosted service for a fee.
 
 Each of the above is prohibited without explicit written permission from the copyright holder. Commercial licensing is available for these uses — see [COMMERCIAL_LICENSE.md](./COMMERCIAL_LICENSE.md).
