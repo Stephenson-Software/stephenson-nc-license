@@ -29,7 +29,7 @@ Yes, you can share modified versions for non-commercial purposes, provided that:
 You must obtain a **commercial license** from Daniel McCoy Stephenson. See [COMMERCIAL_LICENSE.md](./COMMERCIAL_LICENSE.md) for instructions.
 
 ## 7. Why isn't this just MIT or GPL?
-The MIT License allows unrestricted commercial use by anyone. This license keeps the openness of MIT for education and research but ensures that no other party may make commercial use of it, in any of the ways Question 2 describes, without explicit written permission from the copyright holder.
+The MIT License allows unrestricted commercial use by anyone. This license keeps the openness of MIT for all non-commercial purposes, including education and research, but ensures that no other party may make commercial use of it, in any of the ways Question 2 describes, without explicit written permission from the copyright holder.
 
 ## 8. Where can I read the full license?
 The canonical text of the license is in [LICENSE.md](./LICENSE.md) and is hosted in this repository:
