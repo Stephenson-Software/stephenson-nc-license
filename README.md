@@ -34,7 +34,8 @@ Personal learning, academic coursework, research, experimentation, and demonstra
 ## 🚫 Prohibited
 - Commercial use without explicit written permission.
 - Internal business use, or inclusion in products or services that are sold, licensed, or otherwise monetized.
-- Offering the software as part of a hosted service for a fee.
+- Using the software to provide services, consulting, or solutions for which a fee or compensation is received, including offering it as part of a hosted service for a fee.
+- Distributing the software, modified or unmodified, bundled with commercial products or services.
 
 Each of the above is prohibited without explicit written permission from the copyright holder. Commercial licensing is available for these uses — see [COMMERCIAL_LICENSE.md](./COMMERCIAL_LICENSE.md).
 
