@@ -9,14 +9,14 @@ Stephenson Software is the personal software lab of Daniel McCoy Stephenson and 
 **Commercial use** means selling, licensing, sublicensing, or otherwise using the software for commercial advantage.  
 This includes (but is not limited to):
 - Using it in a product, service, or system that is sold, licensed, or otherwise monetized.
-- Using it in a paid service or consulting project.
-- Deploying it for internal use within a business.
+- Using it to provide services, consulting, or solutions for which a fee or compensation is received.
+- Using it in internal business operations, whether or not the software is sold directly.
 - Distributing it, modified or unmodified, bundled with commercial products or services.
 
 If you are unsure whether your use is commercial, please contact the copyright holder for clarification.
 
 ## 3. Can I use this software for school or personal projects?
-Yes. Educational, research, and personal hobby use is encouraged, provided the software is not used in a commercial product or service.
+Yes. The software may be freely used for personal learning, academic coursework, research, experimentation, and demonstration purposes, provided it is not used in a commercial product or service.
 
 ## 4. Can I modify the software?
 Yes. You may modify the software for non-commercial purposes, as long as you keep the copyright and license notice intact in your version.
