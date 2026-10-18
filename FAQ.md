@@ -13,7 +13,7 @@ This includes (but is not limited to):
 - Using it in internal business operations, whether or not the software is sold directly.
 - Distributing it, modified or unmodified, bundled with commercial products or services.
 
-If you are unsure whether your use is commercial, please contact the copyright holder for clarification.
+If you are unsure whether your use is commercial, please contact the copyright holder, Daniel McCoy Stephenson, for clarification, using the contact details in section 4 (Commercial License Availability) of [LICENSE.md](./LICENSE.md).
 
 ## 3. Can I use this software for school or personal projects?
 Yes. The software may be freely used for personal learning, academic coursework, research, experimentation, and demonstration purposes, provided it is not used in a commercial product or service.
