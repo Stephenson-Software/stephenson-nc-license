@@ -19,12 +19,11 @@ If you are unsure whether your use is commercial, please contact the copyright h
 Yes. The software may be freely used for personal learning, academic coursework, research, experimentation, and demonstration purposes, provided it is not used in a commercial product or service.
 
 ## 4. Can I modify the software?
-Yes. You may modify the software for non-commercial purposes, as long as you keep the copyright and license notice intact in your version.
+Yes. You may modify the software for non-commercial purposes, as long as your version includes the copyright notice and the permission notice, as section 2 (Attribution) of [LICENSE.md](./LICENSE.md) requires for all copies or substantial portions of the Software.
 
 ## 5. Can I share my modified version?
 Yes, you can share modified versions for non-commercial purposes, provided that:
-- You include the copyright and license notice.
-- You do not remove or alter the license terms.
+- You include the copyright notice and the permission notice, as section 2 (Attribution) of [LICENSE.md](./LICENSE.md) requires.
 - You do not use your version in any of the ways Question 2 describes as commercial use.
 
 ## 6. How do I get permission for commercial use?
