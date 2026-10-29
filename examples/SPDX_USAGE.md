@@ -41,4 +41,4 @@ For projects with package metadata (e.g., package.json, pyproject.toml, Maven po
 ## Benefits of Using SPDX
 - Standardized placement and syntax for license identification.
 - A consistent field for compliance and scanning tools to read, though those tools cannot resolve `Stephenson-NC` to known terms on their own.
-- Makes the license terms clear to collaborators and users.
+- Points collaborators and users to the license, whose terms are stated in the canonical text.

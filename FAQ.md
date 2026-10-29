@@ -27,7 +27,7 @@ Yes, you can share modified versions for non-commercial purposes, provided that:
 - You do not use your version in any of the ways Question 2 describes as commercial use.
 
 ## 6. How do I get permission for commercial use?
-You must obtain a **commercial license** from Daniel McCoy Stephenson. To inquire, use the contact details in section 4 (Commercial License Availability) of [LICENSE.md](./LICENSE.md). See [COMMERCIAL_LICENSE.md](./COMMERCIAL_LICENSE.md) for what a commercial license grants and what to include in an inquiry.
+Commercial use requires explicit written permission from the copyright holder, Daniel McCoy Stephenson, and **commercial licensing** is available for this purpose. To inquire, use the contact details in section 4 (Commercial License Availability) of [LICENSE.md](./LICENSE.md). See [COMMERCIAL_LICENSE.md](./COMMERCIAL_LICENSE.md) for what a commercial license grants and what to include in an inquiry.
 
 ## 7. Why isn't this just MIT?
 The MIT License allows unrestricted commercial use by anyone. This license keeps the openness of MIT for all non-commercial purposes, including education and research, but ensures that no other party may make commercial use of it, in any of the ways Question 2 describes, without explicit written permission from the copyright holder.
