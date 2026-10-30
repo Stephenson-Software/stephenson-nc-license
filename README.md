@@ -17,7 +17,7 @@ See [LICENSE.md](./LICENSE.md) for the complete legal text.
 ## 📚 Repository Documents
 - [LICENSE.md](./LICENSE.md) — the canonical legal text.
 - [FAQ.md](./FAQ.md) — plain-language answers about what the license permits.
-- [COMMERCIAL_LICENSE.md](./COMMERCIAL_LICENSE.md) — what a commercial license grants and how to request one.
+- [COMMERCIAL_LICENSE.md](./COMMERCIAL_LICENSE.md) — what a commercial license grants and what to include in an inquiry.
 - [CLA.md](./CLA.md) — the Contributor License Agreement applying to contributions to Stephenson-NC projects.
 - [examples/LICENSE_HEADER.txt](./examples/LICENSE_HEADER.txt) — a language-neutral source-file header.
 - [examples/SPDX_USAGE.md](./examples/SPDX_USAGE.md) — how to apply the SPDX identifier.
