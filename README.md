@@ -37,7 +37,7 @@ Personal learning, academic coursework, research, experimentation, and demonstra
 - Using the software to provide services, consulting, or solutions for which a fee or compensation is received, including offering it as part of a hosted service for a fee.
 - Distributing the software, modified or unmodified, bundled with commercial products or services.
 
-Each of the above is prohibited without explicit written permission from the copyright holder. Commercial licensing is available for these uses — see [COMMERCIAL_LICENSE.md](./COMMERCIAL_LICENSE.md).
+Each of the above is prohibited without explicit written permission from the copyright holder. Commercial licensing is available for these uses; to inquire, use the contact details in section 4 (Commercial License Availability) of [LICENSE.md](./LICENSE.md).
 
 ---
 
