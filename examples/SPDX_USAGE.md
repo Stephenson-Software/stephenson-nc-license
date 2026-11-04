@@ -5,11 +5,14 @@ SPDX (Software Package Data Exchange) is a standard format for identifying softw
 Using an SPDX-style header makes the license of a file easy for a reader to spot and gives automated tools a consistent place to look for it.
 
 ## Stephenson-NC SPDX Identifier
+License: Stephenson Software Non-Commercial License (Stephenson-NC)  
 Identifier: Stephenson-NC  
 Version: 1.0 (2025)  
 Canonical license text: https://github.com/Stephenson-Software/stephenson-nc-license
 
 `Stephenson-NC` is a custom identifier coined by this repository. It is **not** on the official SPDX License List, so a scanner that encounters it will generally report it as unrecognized rather than resolve it to known terms. The canonical text linked above remains the only statement of what the license permits.
+
+Stephenson Software is the personal software lab of Daniel McCoy Stephenson and is **not** a legal entity.
 
 ## Adding to Source Files
 Add the following header at the top of every source file:
