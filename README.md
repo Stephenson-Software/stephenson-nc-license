@@ -32,8 +32,8 @@ See [LICENSE.md](./LICENSE.md) for the complete legal text.
 Personal learning, academic coursework, research, experimentation, and demonstration uses are permitted provided the Software is not used in a commercial product or service. Copies and substantial portions of the Software must include the copyright notice and the permission notice. See [LICENSE.md](./LICENSE.md).
 
 ## 🚫 Prohibited
-- Commercial use without explicit written permission.
-- Internal business use, or inclusion in products or services that are sold, licensed, or otherwise monetized.
+- Commercial use without explicit written permission, including selling, licensing, or sublicensing the software, or otherwise using it for commercial advantage.
+- Internal business use, or any use in a product, service, or system that is sold, licensed, or otherwise monetized.
 - Using the software to provide services, consulting, or solutions for which a fee or compensation is received, including offering it as part of a hosted service for a fee.
 - Distributing the software, modified or unmodified, bundled with commercial products or services.
 
