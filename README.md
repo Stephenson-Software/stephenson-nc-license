@@ -74,7 +74,7 @@ When applying this license to your project:
 ---
 
 ## ℹ About Stephenson Software
-Stephenson Software is a **personal software lab** for experimentation, education, and innovation in software development. It is **not** a registered company or legal entity.
+Stephenson Software is the **personal software lab** of Daniel McCoy Stephenson, for experimentation, education, and innovation in software development. It is **not** a legal entity.
 
 ## License Section for READMEs
 The following can be pasted into READMEs for convenience:
